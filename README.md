@@ -56,7 +56,7 @@ dependencies {
 ```
 ###  Kotlin
 ```
-val imageList = ArrayList<ImageBannerModel>()
+	val imageList = ArrayList<ImageBannerModel>()
 
         imageList.add(ImageBannerModel("https://www.aussiespecialist.com/content/asp/en/sales-resources/image-and-video-galleries/_jcr_content/mainParsys/hero/image.adapt.1663.medium.jpg"))
         imageList.add(ImageBannerModel("https://www.theage.com.au/long-reads/our-patch/grampians/img/HERO_HR_Grampians.jpg"))

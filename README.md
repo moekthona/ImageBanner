@@ -1,7 +1,7 @@
 # ImageBanner
 ImageBanner is library that can implement image sliders in android apps.
 ## Image Demo
-
+<img src="https://github.com/saeedsh92/Banner-Slider/blob/master/Screenshot_1481531647.png?raw=true" width="350">
 ![alt-text-1](https://github.com/moekthona/ImageBanner/blob/master/simple.gif "title-1") ![alt-text-2](https://github.com/moekthona/ImageBanner/blob/master/corner%20slide.gif "title-2")
 
 ## Installation

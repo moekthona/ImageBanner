@@ -36,7 +36,6 @@ class ImageBanner @JvmOverloads constructor(context: Context, attrs: AttributeSe
 
     private var selectedDot = 0
     private var unselectedDot = 0
-    private var errorImage = 0
     private var placeholder = 0
 
     init{

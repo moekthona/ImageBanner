@@ -51,7 +51,7 @@ dependencies {
 	app:corner_radius="40"
         app:margin="20"
 ```
-####  Kotlin
+###  Kotlin
 ```
 val imageList = ArrayList<ImageBannerModel>()
 

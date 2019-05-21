@@ -1,5 +1,5 @@
 # ImageBanner
-ImageBanner is library that canimplement image sliders in android apps.
+ImageBanner is library that can implement image sliders in android apps.
 
 ## Installation
 

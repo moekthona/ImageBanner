@@ -21,7 +21,10 @@ dependencies {
 }
  ```
 # Usage
-
+#### Add permission manifest 
+```xml
+	<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+```
 #### Sample XML code 
 ```xml
         <com.mtn.imagebanner.imageslider.ImageBanner

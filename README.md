@@ -22,7 +22,7 @@ dependencies {
  ```
 # Usage
 
-#### XML code 
+#### Sample XML code 
 ```xml
         <com.mtn.imagebanner.imageslider.ImageBanner
             android:id="@+id/image_banner"
@@ -31,6 +31,23 @@ dependencies {
             app:auto_cycle="true"
             app:period="1000"
             app:delay="0">
-    </com.mtn.imagebanner.imageslider.ImageBanner>
+       </com.mtn.imagebanner.imageslider.ImageBanner>
 
+```
+
+#### Custom Indicator
+```xml
+ 	app:selected_dot="@drawable/default_selected_dot"
+        app:unselected_dot="@drawable/default_unselected_dot"
+	
+```
+
+#### Custom Placeholder
+```xml
+	app:placeholder="@drawable/placeholder"
+```
+#### Set Corner Radius
+```xml
+	app:corner_radius="40"
+        app:margin="20"
 ```

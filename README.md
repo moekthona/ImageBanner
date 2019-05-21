@@ -17,7 +17,7 @@ allprojects {
 ### Step 2
 ```
 dependencies {
-  implementation 'com.github.moekthona:ImageBanner:0.0.2'
+  	implementation 'com.github.moekthona:ImageBanner:0.0.2'
 }
  ```
 # Usage
